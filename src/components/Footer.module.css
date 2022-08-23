@@ -1,0 +1,29 @@
+.footer {
+  display: flex;
+  background-color: #d5d4d8;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.socialMedia {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /*gap: 35px;*/
+  padding: 20px;
+  margin: auto;
+}
+
+.socialIcons {
+  width: 80px;
+  height: 1.5em;
+}
+
+.socialIcons:hover,
+.socialIcons:focus {
+  color: #8A2BE2;
+  transform: scale(1.6);
+}

@@ -1,6 +1,6 @@
 Project insights
 
-This is a Project built from scrimba "React-crash-course", it's my first solo React project, built based on one of the 4 Figma Models => `https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1` provided by the course
+This is a Project built from scrimba "React-crash-course", built based on one of the 4 Figma Models => `https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1` provided by the course
 
 
 This project was built on my local machine initialized with the Create React App and pushed back on Github with the Git command line.
